@@ -8,7 +8,7 @@
 
 This guide will walk you through assembly of the VKmaker Smart Robot 2WD Car.
 
-There's also a video you can follow along with here:
+# There's also a video you can follow along with here
 
 [![](http://img.youtube.com/vi/d9TXThtSUNM/0.jpg)](http://www.youtube.com/watch?v=d9TXThtSUNM "Video Title")
 
