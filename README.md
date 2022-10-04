@@ -1,19 +1,24 @@
 # Assembly Instructions for a Motor Robot Car Kit 2WD, L298N Motor driver, HC-SC04 Ultrasonic module, Arduino
 
-## Stephen A. Edwards
-## July 2018
+## Original guide and photos by Stephen A. Edwards
 
 ![](imgs/image1.jpeg)
 
 ![](imgs/image2.jpeg)
+
+This guide will walk you through assembly of the VKmaker Smart Robot 2WD Car.
+
+There's also a video you can follow along with here:
+
+[![](http://img.youtube.com/vi/d9TXThtSUNM/0.jpg)](http://www.youtube.com/watch?v=d9TXThtSUNM "Video Title")
 
 ## 1. Mount the Swivel Wheel
 
 | Parts Needed        |
 | ------------------- |
 | Swivel  Wheel       |
-| 4 ×  5 mm M3 screws |
-| 4 ×  M3 nuts        |
+| 8 ×  5 mm M3 screws |
+| 4 ×  spacers        |
 
 ![](imgs/image5.jpeg)
 
@@ -26,11 +31,12 @@
 
 ## 2. Mount the Arduino and Sensor Shield
 
-| Parts Needed                            |
-| --------------------------------------- |
-| Arduino                                 |
-| Sensor Shield                           |
-| 2 × 10 mm M3 spacers 4 × 5 mm M3 screws |
+| Parts Needed         |
+| -------------------- |
+| Arduino              |
+| Sensor Shield        |
+| 2 × 10 mm M3 spacers |
+| 4 × 5 mm M3 screws   |
 
 ![](imgs/image6.jpeg)
 
