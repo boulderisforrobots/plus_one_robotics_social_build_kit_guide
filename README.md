@@ -41,9 +41,6 @@
 
 - Mount the **Sensor Shield** atop the Arduino. Line up the right edges of the boards. Make sure each pin goes in a connector.
 
-<!-- ![](imgs/image8.jpeg) -->
-<!-- ![](imgs/image7.jpeg) -->
-
 ## 3. Mount the Motors on the Bottom of the Baseplate
 
 | Parts Needed         |
@@ -88,8 +85,6 @@
 - Insert the switch on the top of the baseplate between the two motors
 
     ![](imgs/image14-edited.jpg)
-
-<!-- ![](imgs/image9-edited.jpg) -->
 
 - Place the standoff screws through the holes in the L298N board and screw nuts on top to secure it
 - Mount the L298N board with connected standoffs to baseplate as shown with 2 of the 5mm M3 screws
